@@ -315,7 +315,7 @@ a.btn.primary:hover {
     font-size: .8rem;
 }
 .display {
-    background-image: url(../img/bg-desk.png);
+/*     background-image: url(../img/bg-desk.png); */
     background-size: cover;
     width: 100%;
     height: 100vh;
