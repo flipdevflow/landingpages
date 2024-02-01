@@ -80,7 +80,7 @@ initapp=()=>{
 <main>
    <div class='display'>
       <div class='content-text'>
-         <span class='title'>Flip Media </span>
+         <span class='title'>Crie Páginas Rápidas </span>
          <h1>Visível, leve e intuitivo.</h1>
          <h2>ative a criatividade, comece algo novo</br>  agora mesmo...</h2>
          <a class='btn-down' href='#details'>
