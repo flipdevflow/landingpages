@@ -83,6 +83,13 @@ initapp=()=>{
          <span class='title'>Crie Páginas Rápidas </span>
          <h1>Visível, leve e intuitivo.</h1>
          <h2>ative a criatividade, comece algo novo</br>  agora mesmo...</h2>
+         <div style="  margin: 0 auto ;
+         display: flex;
+         ">
+             <a class="  btn primary convert-btn " href="#contact">
+             <span>Conte sua história</span>
+             </a>
+          </div>
          <a class='btn-down' href='#details'>
          <i class="fa-solid fa-chevron-down"></i>
          </a>
