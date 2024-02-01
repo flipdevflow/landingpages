@@ -60,7 +60,7 @@ div#details img {
 }
 .card-header {
     font-weight: 600;
-    color: #2b61ff;
+        color: #67d4ff;
 }
 div#contact {
     display: none;
@@ -81,7 +81,7 @@ img {
 }
 .card-container .card {
     margin: 5px;
-    background: white;
+    background: transparent;
     padding:15px;
     border-radius: 15px;
     max-width: 90%;
