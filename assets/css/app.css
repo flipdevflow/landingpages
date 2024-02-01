@@ -8,7 +8,9 @@
 
 }
 body {
-    background: black !important}
+    background: black !important;
+    color:white !important;
+}
 .display a.btn.primary.convert-btn span {
     font-size: .7rem !important;
 }
