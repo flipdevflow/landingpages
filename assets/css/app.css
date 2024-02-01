@@ -8,9 +8,9 @@
 
 }
 body {
-    background: black}
+    background: black !important}
 a.btn.primary.convert-btn span {
-    font-size: .7rem !important;
+    font-size: .7rem !important;}
 
 a.whatsapi {
     position: absolute;
